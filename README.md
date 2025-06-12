@@ -16,8 +16,8 @@ Feel free to fork, share, and contribute any additional tools or insights.
 - 🧩 Visualization  
 - 📊 Dashboard  
 - 🧰 API  
-- 📁 Dataset  
-
+- 📁 Dataset
+- 🕵️ Privacy
 ---
 
 ## 🔗 Blockchain Explorers
@@ -29,6 +29,7 @@ Feel free to fork, share, and contribute any additional tools or insights.
 | [Blockchair](https://blockchair.com) | Explorer for BTC, ETH, BCH, XRP, LTC and more | 🔍 📊 |
 | [BTCScan](https://btcscan.org) | Bitcoin address and transaction viewer | 🔍 |
 | [EthVM](https://ethvm.com) | Ethereum explorer focused on tx and address stats | 🔍 🧰 |
+| [Lightning Decoder](https://lightningdecoder.com) | Decode Lightning Network Requests | 🔍 🧰 🕵️|
 
 ---
 
