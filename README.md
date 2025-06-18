@@ -71,7 +71,6 @@ MASAK
 
 | Name | Description | Tags |
 |------|-------------|------|
-
 | [MIT Cryptocurrency Course](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-s62-cryptocurrency-engineering-and-design-spring-2018/) | Academic resource on crypto systems | 🧠 |
 | [Chainalysis Crypto Crime Reports](https://www.chainalysis.com/crypto-crime/) | Annual reports with case examples | 🧠 📁 |
 | [The Nerd in the High Castle](https://thenerdinthehighcastle.wordpress.com/) | Digital Forensics, OSINT & Cyber Security Tutorials, Walkthroughs & Tools | 🧠 📁 |
