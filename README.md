@@ -62,7 +62,7 @@ Feel free to fork, share, and contribute any additional tools or insights.
 | Name | Description | Tags |
 |------|-------------|------|
 | [Chainabuse](https://chainabuse.com) | Community platform to report crypto scams | 🛡 |
-MASAK
+|------|Masak|------|
 | [TRM Labs Blog](https://www.trmlabs.com/blog) | Risk intelligence and investigative reports | 🧠 🛡 |
 
 ---
@@ -74,7 +74,14 @@ MASAK
 | [MIT Cryptocurrency Course](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-s62-cryptocurrency-engineering-and-design-spring-2018/) | Academic resource on crypto systems | 🧠 |
 | [Chainalysis Crypto Crime Reports](https://www.chainalysis.com/crypto-crime/) | Annual reports with case examples | 🧠 📁 |
 | [The Nerd in the High Castle](https://thenerdinthehighcastle.wordpress.com/) | Digital Forensics, OSINT & Cyber Security Tutorials, Walkthroughs & Tools | 🧠 📁 |
-| [Travel Rule](https://docs.getdefy.co/travel-rule/what-is-travel-rule) | What information needs to be included in the travel rule request | 🧠 📁 |
+| [Travel Rule](https://docs.getdefy.co/travel-rule/what-is-travel-rule) | What information needs to be included in the travel rule request | 🧠 📁 🛡 |
+| [Decoding Crypto](https://medium.com/coinmonks/decoding-blockchain-and-crypto-my-top-faqs-answered-part-iii-b6e18de6b1a2) | Decoding Blockchain and Crypto | 🧠 📁 |
+| [Privacy Coins 101](https://www.chainalysis.com/blog/privacy-coins-anonymity-enhanced-cryptocurrencies/) | Privacy Coins Anonimity Enhanced Cryptocurrencies | 🧠 📁 |
+| [Decoding Lightning Payment Request](https://medium.com/slamtrade/ln-parser-decoding-and-encoding-of-lightning-payment-request-f84824d8cf30) | LN Parser— Decoding and Encoding of Lightning Payment Request | 🧠 📁 |
+| [Bitcoin Tracking for Law Enforcement](https://www.acfcs.org/acfcs-contributor-report-bitcoin-tracking-for-law-enforcement) | A Guide to Crypto Investigations | 🧠 📁 |
+
+
+
 
 ---
 
