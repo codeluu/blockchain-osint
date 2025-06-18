@@ -29,7 +29,9 @@ Feel free to fork, share, and contribute any additional tools or insights.
 | [Blockchair](https://blockchair.com) | Explorer for BTC, ETH, BCH, XRP, LTC and more | 🔍 📊 |
 | [BTCScan](https://btcscan.org) | Bitcoin address and transaction viewer | 🔍 |
 | [EthVM](https://ethvm.com) | Ethereum explorer focused on tx and address stats | 🔍 🧰 |
-| [Lightning Decoder](https://lightningdecoder.com) | Decode Lightning Network Requests | 🔍 🧰 🕵️|
+| [Tokenview](https://tokenview.io) | Multi-chain explorer with wallet and contract search | 🔍 🛠️ |
+| [Walletexplorer](https://www.walletexplorer.com) | BTC-focused tool for identifying wallet clusters | 🔍 🛠️ |
+
 
 ---
 
@@ -38,11 +40,9 @@ Feel free to fork, share, and contribute any additional tools or insights.
 | Name | Description | Tags |
 |------|-------------|------|
 | [Breadcrumbs](https://breadcrumbs.app) | Trace and visualize crypto wallet transactions | 🛠️ 🧩 |
-| [Bitquery](https://bitquery.io) | Multi-chain blockchain explorer and GraphQL API | 🛠️ 🧰 📊 |
-| [OXT](https://oxt.me) | Bitcoin blockchain explorer + address clustering | 🛠️ 🔍 |
-| [Tokenview](https://tokenview.io) | Multi-chain explorer with wallet and contract search | 🔍 🛠️ |
-| [Walletexplorer](https://www.walletexplorer.com) | BTC-focused tool for identifying wallet clusters | 🔍 🛠️ |
-| [GraphSense](https://graphsense.info) | Open-source crypto analytics platform | 🧰 🛠️ 📁 |
+| [Lightning Decoder](https://lightningdecoder.com) | Decode Lightning Network Requests | 🔍 🧰 🕵️|
+| [Scorechain](https://www.scorechain.com) | Compliance & investigation platform | 🛡 |
+| [Chainalysis](https://www.chainalysis.com) | Insightful case studies, trends, and analysis | 🧠 🛡 |
 
 ---
 
@@ -50,9 +50,8 @@ Feel free to fork, share, and contribute any additional tools or insights.
 
 | Name | Description | Tags |
 |------|-------------|------|
-| [Crypto APIs](https://cryptoapis.io) | Unified API for multiple chains and addresses | 🧰 |
-| [Chainz](https://chainz.cryptoid.info) | Public blockchain stats and rich lists | 📁 📊 |
-| [Blockstream.info API](https://blockstream.info/api) | BTC mainnet/testnet REST API | 🧰 🔍 |
+| [Crypto APIs](https://cryptoapis.io) | The blockchain infrastructure suite for Web 3 | 🧰 🔍 |
+| [Blockstream.info](https://blockstream.info) | Search for transactions, address, hash | 🧰 🔍 |
 | [Bitquery GraphQL](https://explorer.bitquery.io) | Blockchain data via custom queries | 🧰 📊 |
 | [Coin Metrics](https://coinmetrics.io) | High-quality time-series data | 📁 🧠 |
 
@@ -63,9 +62,7 @@ Feel free to fork, share, and contribute any additional tools or insights.
 | Name | Description | Tags |
 |------|-------------|------|
 | [Chainabuse](https://chainabuse.com) | Community platform to report crypto scams | 🛡 |
-| [CipherTrace](https://ciphertrace.com) | Commercial AML & tracing (see Academy too) | 🛡 🧠 |
-| [Scorechain](https://www.scorechain.com) | Compliance & investigation platform | 🛡 |
-| [Chainalysis Blog](https://www.chainalysis.com/blog) | Insightful case studies, trends, and analysis | 🧠 🛡 |
+MASAK
 | [TRM Labs Blog](https://www.trmlabs.com/blog) | Risk intelligence and investigative reports | 🧠 🛡 |
 
 ---
@@ -74,9 +71,11 @@ Feel free to fork, share, and contribute any additional tools or insights.
 
 | Name | Description | Tags |
 |------|-------------|------|
-| [CipherTrace Academy](https://ciphertrace.com/training/) | Free training on crypto tracing & investigations | 🧠 |
+
 | [MIT Cryptocurrency Course](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-s62-cryptocurrency-engineering-and-design-spring-2018/) | Academic resource on crypto systems | 🧠 |
 | [Chainalysis Crypto Crime Reports](https://www.chainalysis.com/crypto-crime/) | Annual reports with case examples | 🧠 📁 |
+| [The Nerd in the High Castle](https://thenerdinthehighcastle.wordpress.com/) | Digital Forensics, OSINT & Cyber Security Tutorials, Walkthroughs & Tools | 🧠 📁 |
+| [Travel Rule](https://docs.getdefy.co/travel-rule/what-is-travel-rule) | What information needs to be included in the travel rule request | 🧠 📁 |
 
 ---
 
