@@ -93,7 +93,7 @@ Feel free to fork, share, and contribute any additional tools or insights.
 | [Privacy Coins 101](https://www.chainalysis.com/blog/privacy-coins-anonymity-enhanced-cryptocurrencies/) | Privacy Coins Anonimity Enhanced Cryptocurrencies | 🧠 📁 |
 | [Decoding Lightning Payment Request](https://medium.com/slamtrade/ln-parser-decoding-and-encoding-of-lightning-payment-request-f84824d8cf30) | LN Parser— Decoding and Encoding of Lightning Payment Request | 🧠 📁 |
 | [Bitcoin Tracking for Law Enforcement](https://www.acfcs.org/acfcs-contributor-report-bitcoin-tracking-for-law-enforcement) | A Guide to Crypto Investigations | 🧠 📁 |
-
+| [MistTrack New Tutorial](https://www.youtube.com/watch?v=HcDAQRdiirg) | How to use Mistrack Platform | 🧠 📁 |
 
 ---
 
