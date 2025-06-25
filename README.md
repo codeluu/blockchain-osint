@@ -37,7 +37,6 @@ Feel free to fork, share, and contribute any additional tools or insights.
 | [Solscan](https://solscan.io/) | Solana Blockchain | 🔍 📊|
 | [Tokenview](https://tokenview.io) | Multi-chain explorer with wallet and contract search | 🔍 🛠️ |
 | [Walletexplorer](https://www.walletexplorer.com) | BTC-focused tool for identifying wallet clusters | 🔍 🛠️ |
-| [Scam Search](https://scamsearch.io/) | Scam Search | 🔍 |
 | [Blockpath](https://blockpath.com/) | Blockpath - Crypto Accounting Tools |  🧰 🔍 |
 
 
@@ -78,6 +77,12 @@ Feel free to fork, share, and contribute any additional tools or insights.
 | [Chainabuse](https://chainabuse.com) | Community platform to report crypto scams | 🛡 |
 |------|Masak|------|
 | [TRM Labs Blog](https://www.trmlabs.com/blog) | Risk intelligence and investigative reports | 🧠 🛡 |
+| [Scam Search](https://scamsearch.io/) | Scam Search | 🔍 |
+| [Scam Alerts](https://scam-alert.io/) | Scam Alerts | 🔍 |
+| [Scam Wallets](https://checkcryptoaddress.com/scam-wallets) | Scam Wallets | 🔍 |
+
+
+
 
 ---
 
@@ -106,6 +111,7 @@ Feel free to fork, share, and contribute any additional tools or insights.
 | [How to Investigate a Bitcoin Address](https://oxt.me/articles/how_to_investigate_a_bitcoin_address) | Deep dive using OXT and clustering | 🧠 🛠️ |
 | [[ADDRESS]-block]() | Identify information related to the address but not indexed by common search engines | 🧠 |
 | [site:[url of interest] [ADDRESS]-block]() | 	help to find information about an address on a target url of interest | 🧠 |
+| [IP Address Search](https://www.maxmind.com/en/geoip-demo) | GeoIP databases demo | MaxMind | 🧠 |
  	
 
 ---
