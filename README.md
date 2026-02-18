@@ -52,6 +52,8 @@ Feel free to fork, share, and contribute any additional tools or insights.
 | [Chainalysis](https://www.chainalysis.com) | Insightful case studies, trends, and analysis | 🧠 🛡 |
 | [Telegram Search](https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1) | Telegago | 🔍🕵️ |
 | [Cryptocurrency & NFT OSINT](https://www.youtube.com/watch?v=MVHHokKEp7s) | Introduction to Web3:Ethereum profiling & deanonymization | 🧠 🛠️ |
+|[Chartscout](https://chartscout.io)|Real-time crypto chart pattern detection and trading alerts for OSINT analysis|🔍 📊|
+
 
 
 ---
