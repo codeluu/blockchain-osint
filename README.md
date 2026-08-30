@@ -80,6 +80,7 @@ Feel free to fork, share, and contribute any additional tools or insights.
 | [Scam Search](https://scamsearch.io/) | Scam Search | 🔍 |
 | [Scam Alerts](https://scam-alert.io/) | Scam Alerts | 🔍 |
 | [Scam Wallets](https://checkcryptoaddress.com/scam-wallets) | Scam Wallets | 🔍 |
+| [PublicAML](https://publicaml.org) | Free, no-signup AML/KYT address screening for BTC/ETH/BNB/TRON — risk score, OFAC sanctions status, category (scam/mixer/hack/darknet) and source-of-funds; also a keyless enrich API and Telegram bot | 🛡 🛠️ 🧰 |
 
 
 
