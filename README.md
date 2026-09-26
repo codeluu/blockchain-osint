@@ -80,6 +80,7 @@ Feel free to fork, share, and contribute any additional tools or insights.
 | [Scam Search](https://scamsearch.io/) | Scam Search | 🔍 |
 | [Scam Alerts](https://scam-alert.io/) | Scam Alerts | 🔍 |
 | [Scam Wallets](https://checkcryptoaddress.com/scam-wallets) | Scam Wallets | 🔍 |
+| [FreezeRadar](https://freezeradar.com) | Free wallet risk check for issuer blacklists / freezeable assets (USDT, USDC, PAXG) and sanctions-related exposure | 🛡 🛠️ |
 
 
 
