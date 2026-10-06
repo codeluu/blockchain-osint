@@ -80,6 +80,7 @@ Feel free to fork, share, and contribute any additional tools or insights.
 | [Scam Search](https://scamsearch.io/) | Scam Search | 🔍 |
 | [Scam Alerts](https://scam-alert.io/) | Scam Alerts | 🔍 |
 | [Scam Wallets](https://checkcryptoaddress.com/scam-wallets) | Scam Wallets | 🔍 |
+| [HostDeFi](https://hostdefi.com) | Free multi-chain token risk scanner — instant safety grades for Solana + EVM token contracts | 🔍 🛡 |
 
 
 
